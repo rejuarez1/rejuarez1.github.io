@@ -1,15 +1,14 @@
-/* General */
 body{
     background-color: white;
 }
-/* The emerging W3C standard
-   that is currently Firefox-only */
+
+
 * {
     scrollbar-width: thin;
     scrollbar-color: lightgray white;
 }
 
-/* Works on Chrome/Edge/Safari */
+
 *::-webkit-scrollbar {
     width: 12px;
 }
@@ -55,7 +54,7 @@ img {
 }
 
 
-/* Header */
+
 #my-title{
     font-size: 3em;
     text-align: center;
@@ -66,7 +65,7 @@ img {
 }
 
 
-/* Nav Bar */
+
 
 .my-nav a{
     color: black;
@@ -117,35 +116,5 @@ img {
 .my-copyright{
     text-align: center;
     font-size: 1em;
-    color: black;
+    color: rgb(40, 118, 201);
 }
-
-/* Other Project Reference Link */
-/* .other-projects{
-    margin-top: 2%;
-    color: lightgray;
-}
-
-.other-projects ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-.other-projects li {
-    font-size: min(3.5vh, 3.5vw);
-    float: left;
-}
-
-
-.other-projects li a {
-    display: block;
-    color: lightgray;
-    padding: 16px;
-    text-decoration: none;
-}
-
-.other-projects li a:hover{
-    color: gray;
-} */
