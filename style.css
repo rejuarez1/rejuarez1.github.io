@@ -68,7 +68,7 @@ img {
 
 /* Nav Bar */
 
-.my-nav a{
+/* .my-nav a{
     color: black;
 }
 
@@ -111,8 +111,14 @@ img {
 
 .my-nav-content li a:hover {
     background-color: whitesmoke;
-}
+} */
 
+/* Copy Right Logo */
+/* .my-copyright{
+    text-align: center;
+    font-size: 1em;
+    color: black;
+} */
 
 /* Other Project Reference Link */
 /* .other-projects{
@@ -142,11 +148,4 @@ img {
 
 .other-projects li a:hover{
     color: gray;
-} */
-
-/* Copy Right Logo */
-/* .my-copyright{
-    text-align: center;
-    font-size: 1em;
-    color: black;
 } */
